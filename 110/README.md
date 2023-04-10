@@ -3,7 +3,7 @@
   
 License      : GPLv3  
 Content ID   : 110 - Video+Book  
-Content Name : Programming Fundamentals CS101 
+Content Name : Programming Fundamentals CS101  
 Level        : Beginner  
 Language     : English  
 Author       : Younis Amedi  
