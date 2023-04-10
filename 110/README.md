@@ -1,4 +1,4 @@
-# Programming Fundamentals CS101  
+# Programming Fundamentals CS101 - 1st Edition   
 # © CS101 Academy - www.cs101.io  
   
 Content ID : 110 - Video+Book  
