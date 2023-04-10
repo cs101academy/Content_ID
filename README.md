@@ -1,2 +1,5 @@
-# Content_ID
-CS101 Academy - Basic Computer Science Concepts and Programming Fundamentals - www.cs101.io
+# © CS101 Academy - www.cs101.io  
+Basic Computer Science Concepts & Programming Fundamentals  
+  
+Link    : https://www.cs101.io/contents/  
+#########################################################  
