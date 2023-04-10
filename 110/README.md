@@ -1,13 +1,11 @@
-# Programming Fundamentals CS101 
+# Programming Fundamentals CS101  
 # © CS101 Academy - www.cs101.io  
   
-License      : GPLv3  
-Content ID   : 110 - Video+Book  
-Content Name : Programming Fundamentals CS101  
-Level        : Beginner  
-Language     : English  
-Author       : Younis Amedi  
-Released     : July 2023  
-Link: https://www.cs101.io/contents/110/Programming_Fundamentals_CS101/  
+Content ID : 110 - Video+Book  
+Level   : Beginner  
+Language: English  
+Author  : Younis Amedi - July 2023  
+Link    : https://www.cs101.io/contents/110/Programming_Fundamentals_CS101/  
+Github  : https://github.com/cs101academy/Content_ID/tree/main/110  
 Last_Update: 10 April 2023 - By: YA  
 ######################################################  
