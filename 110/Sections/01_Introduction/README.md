@@ -2,6 +2,7 @@
 # © CS101 Academy - www.cs101.io  
   
 Content ID : 110 - Video+Book  
+License : GPLv3  
 Level   : Beginner  
 Language: English  
 Author  : Younis Amedi - July 2023  
